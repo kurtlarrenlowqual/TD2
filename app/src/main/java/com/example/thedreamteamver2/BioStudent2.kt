@@ -54,7 +54,7 @@ fun StudentTwoScreen() {
     ) {
 
         Image(
-            painter = painterResource(id = R.drawable.student1), //change this to your own image filename
+            painter = painterResource(id = R.drawable.student2), //change this to your own image filename
             contentDescription = "Student photo",
             contentScale = ContentScale.Crop,
             modifier = Modifier
